@@ -26,8 +26,6 @@
      [] 学习redis 
      [] 学习python 
      [] 学习spring boot
-     [] 最近看书系列：git 权威指南
      [] 最近看书系列：代码整洁之道
      [] 最近看书系列：viand vim 
-     [] 最近看书系列：javascript权威指南
     --ends--
