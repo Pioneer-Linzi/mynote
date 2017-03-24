@@ -26,6 +26,6 @@
      [] 学习redis 
      [] 学习python 
      [] 学习spring boot
-     [] 最近看书系列：代码整洁之道
+     [] 鸟哥的linux私房菜
      [] 最近看书系列：viand vim 
     --ends--
