@@ -14,7 +14,7 @@
 #### 明日计划
     --start--
      [] 看看为知笔记上的微博收藏
-     [] 学习react js
+     [] 学习angularjs
      [] 学习nodejs
      [] 学习vue.js
      [] 写英文日记
@@ -28,4 +28,5 @@
      [] 鸟哥的linux私房菜
      [] 最近看书系列：viand vim 
 	 [] 再看 es6
+	 [] html5
     --ends--
