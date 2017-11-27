@@ -16,7 +16,6 @@
      [] 看看为知笔记上的微博收藏
      [] 学习react js
      [] 学习nodejs
-     [] 学习webpack
      [] 学习vue.js
      [] 写英文日记
      [] 英文阅读
@@ -28,4 +27,5 @@
      [] 学习spring boot
      [] 鸟哥的linux私房菜
      [] 最近看书系列：viand vim 
+	 [] 再看 es6
     --ends--
