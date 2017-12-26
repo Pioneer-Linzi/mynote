@@ -22,11 +22,11 @@
      [] 11点半睡觉
      [] 7点半起床
      [] 下班收拾屋子
-     [] 学习redis 
-     [] 学习python 
+     [] 学习redis
+	 [] 学习mongo
+     [] 学习python
      [] 学习spring boot
      [] 鸟哥的linux私房菜
-     [] 最近看书系列：viand vim 
 	 [] 再看 es6
-	 [] html5
+	 [*] html5
     --ends--
