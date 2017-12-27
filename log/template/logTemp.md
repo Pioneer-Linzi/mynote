@@ -14,6 +14,7 @@
 #### 明日计划
     --start--
      [] 看看为知笔记上的微博收藏
+	 [] 学习typescript
      [] 学习angularjs
      [] 学习nodejs
      [] 学习vue.js
@@ -28,5 +29,4 @@
      [] 学习spring boot
      [] 鸟哥的linux私房菜
 	 [] 再看 es6
-	 [*] html5
     --ends--
