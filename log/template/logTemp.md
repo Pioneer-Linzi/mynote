@@ -14,19 +14,18 @@
 #### 明日计划
     --start--
      [] 看看为知笔记上的微博收藏
+	 [] 学习typescript
      [] 学习angularjs
      [] 学习nodejs
      [] 学习vue.js
      [] 写英文日记
      [] 英文阅读
      [] 11点半睡觉
-     [] 7点半起床
+     [] 7点起床学英语
      [] 下班收拾屋子
      [] 学习redis
 	 [] 学习mongo
      [] 学习python
      [] 学习spring boot
-     [] 鸟哥的linux私房菜
 	 [] 再看 es6
-	 [*] html5
     --ends--
