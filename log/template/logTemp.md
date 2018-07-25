@@ -15,17 +15,10 @@
     --start--
      [] 看看为知笔记上的微博收藏
 	 [] 学习typescript
-     [] 学习angularjs
      [] 学习nodejs
-     [] 学习vue.js
      [] 写英文日记
      [] 英文阅读
      [] 11点半睡觉
-     [] 7点起床学英语
-     [] 下班收拾屋子
-     [] 学习redis
 	 [] 学习mongo
-     [] 学习python
-     [] 学习spring boot
 	 [] 再看 es6
     --ends--
